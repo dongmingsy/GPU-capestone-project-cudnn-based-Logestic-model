@@ -11,6 +11,7 @@ Set up the filter descriptor.
 Set up the activation descriptor.
 Implement the forward and backward pass for training.
 Update the weights using gradient descent.
+Please refer to result for the confusion matrix and ROC curve.
 
 
 ## Key Concepts
