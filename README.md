@@ -13,6 +13,10 @@ Results: Confusion Matrix:
 
 ![Confusion Matrix](https://github.com/dongmingsy/GPU-capestone-project-cudnn-based-Logestic-model/blob/master/confusion_matrix.png)
 
+ROC Curve:
+
+![ROC Curve](https://github.com/dongmingsy/GPU-capestone-project-cudnn-based-Logestic-model/blob/master/ROC.png)
+
 ## Key Concepts
 
 Logestic model, forward pas, backward pass,  NPP Library
