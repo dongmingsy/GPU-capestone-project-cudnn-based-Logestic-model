@@ -3,12 +3,19 @@
 ## Description
 This is based on NPP CUDA sample that proceeding logestic model training and prediction.
 To implement the LogisticModel::train method using the cuDNN library, we need to follow these steps:
+
 Initialize cuDNN descriptors and allocate memory.
+
 Set up the input and output tensor descriptors.
+
 Set up the filter descriptor.
+
 Set up the activation descriptor.
+
 Implement the forward and backward pass for training.
+
 Update the weights using gradient descent.
+
 Results: Confusion Matrix:
 
 ![Confusion Matrix](https://github.com/dongmingsy/GPU-capestone-project-cudnn-based-Logestic-model/blob/master/confusion_matrix.png)
