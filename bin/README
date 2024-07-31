@@ -1,0 +1,9 @@
+For those who want to reproduce this project:
+This project was compiled and run under Coursera lab envrionment. I was not able to use git to submit the project into my github repository due to the VS Code version of Coursera is to old to support github authentication policy.
+
+To reproduce this, please follow below steps:
+1. Open the Coursera Course Independent project Lab.
+2. Clone the Nvidia NPP sample to local:
+    git clone https://github.com/NVIDIA/cuda-samples.git
+3. copy the cudnn_logestic directory of this project to the same level as Common of the cuda-sample repository.
+4. make clean build
