@@ -9,7 +9,8 @@ Set up the filter descriptor.
 Set up the activation descriptor.
 Implement the forward and backward pass for training.
 Update the weights using gradient descent.
-
+Results: Confusion Matrix:
+![Confusion Matrix](https://github.com/dongmingsy/GPU-capestone-project-cudnn-based-Logestic-model/blob/master/confusion_matrix.png)
 
 ## Key Concepts
 
