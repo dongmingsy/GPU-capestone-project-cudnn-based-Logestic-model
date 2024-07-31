@@ -8,8 +8,6 @@ Initialize cuDNN descriptors and allocate memory.
 
 Set up the input and output tensor descriptors.
 
-Set up the filter descriptor.
-
 Set up the activation descriptor.
 
 Implement the forward and backward pass for training.
